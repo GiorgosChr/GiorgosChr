@@ -7,11 +7,19 @@ I am interested in computational methods for solving physics problems. In partic
 
 Skills: Linux, LaTeX, Python, C++
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently studying Particle Physics. 
 - 📫 How to reach me: giorgos.christou@protonmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GiorgosChr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/latex.svg' alt='latex' height='40'>](https://www.latex-project.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](mailto:giorgos.christou@protonmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr)
+[![LaTeX](https://img.shields.io/badge/LaTeX-%20-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
+[![Python](https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-%20-FCC624?style=flat-square&logo=linux)](https://www.linux.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-%20-F37626?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-%20-8B89CC?style=flat-square&logo=protonmail)](mailto:giorgos.christou@protonmail.com)
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr)](https://github.com/anuraghazra/github-readme-stats)
 
