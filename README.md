@@ -8,7 +8,6 @@ I am interested in computational methods for solving physics problems. In partic
 Skills: Linux, LaTeX, Python, C++
 
 - 🔭 I’m currently studying Particle Physics. 
-- 📫 How to reach me: giorgos.christou@protonmail.com 
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr)
