@@ -11,11 +11,11 @@ Skills: Linux, LaTeX, Python, C++
 - 📫 How to reach me: giorgos.christou@protonmail.com 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr)
-[![LaTeX](https://img.shields.io/badge/LaTeX-%20-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
-[![Python](https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-%20-FCC624?style=flat-square&logo=linux)](https://www.linux.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-%20-F37626?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr){:target="_blank"}
+[![LaTeX](https://img.shields.io/badge/LaTeX-%20-008080?style=flat-square&logo=latex)](https://www.latex-project.org/){:target="_blank"}
+[![Python](https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python)](https://www.python.org/){:target="_blank"}
+[![Linux](https://img.shields.io/badge/Linux-%20-FCC624?style=flat-square&logo=linux)](https://www.linux.org/){:target="_blank"}
+[![Jupyter](https://img.shields.io/badge/Jupyter-%20-F37626?style=flat-square&logo=jupyter)](https://jupyter.org/){:target="_blank"}
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-%20-8B89CC?style=flat-square&logo=protonmail)](mailto:giorgos.christou@protonmail.com)
 
 
