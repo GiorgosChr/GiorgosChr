@@ -1,12 +1,22 @@
-# About Me:
-Physics Undergraduate student at the University of Cyprus<br>
+### Hi there 👋, my name is Giorgos
+#### I am a Physics undergraduate student at the University of Cyprus.
+![I am a Physics undergraduate student at the University of Cyprus.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GiorgosChr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GiorgosChr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am interested in computational methods for solving physics problems. In particular I am interested in High Energy Physics and Particle Physics (theoretical and experimental).
+
+Skills: Linux, LaTeX, Python, C++
+
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: giorgos.christou@protonmail.com 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GiorgosChr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/latex.svg' alt='latex' height='40'>](https://www.latex-project.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](mailto:giorgos.christou@protonmail.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GiorgosChr)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=GiorgosChr)  
+
