@@ -20,10 +20,10 @@ Skills: Linux, LaTeX, Python, C++
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&theme=dark&show_icons=true&count_private=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=GiorgosChr&theme=dark)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=GiorgosChr)  
 
