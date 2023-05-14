@@ -5,7 +5,7 @@
 
 I am interested in computational methods for solving physics problems. In particular I am interested in High Energy Physics and Particle Physics (theoretical and experimental).
 
-Skills: Linux, LaTeX, Python, C++
+Skills: Linux, LaTeX, Python, C++, FORTRAN
 
 - 🔭 I’m currently studying Particle Physics. 
 
