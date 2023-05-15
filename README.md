@@ -18,6 +18,7 @@ I am interested in computational methods for solving physics problems. In partic
 [![Python](https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-%20-F37626?style=flat-square&logo=jupyter)](https://jupyter.org/)
 [![FORTRAN](https://img.shields.io/badge/FORTRAN-%20-734F20?style=flat-square&logo=fortran)](https://fortran-lang.org/en/)
+[![Mathematica](https://img.shields.io/badge/Mathematica-%20-DD1100?style=flat-square&logo=wolfram-mathematica)](https://www.wolfram.com/mathematica/online/?src=google&420)
 [![C++](https://img.shields.io/badge/C++-%20-00599C?style=flat-square&logo=c%2B%2B)](https://cplusplus.com/)
 
 
