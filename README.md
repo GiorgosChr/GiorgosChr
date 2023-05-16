@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Giorgos
+### Hi there, my name is Giorgos
 #### I am a Physics undergraduate student at the University of Cyprus.
 <!-- ![I am a Physics undergraduate student at the University of Cyprus.] -->
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
@@ -7,7 +7,9 @@ I am interested in computational methods for solving physics problems. In partic
 
 <!-- Skills: Linux, LaTeX, Python, C++, FORTRAN -->
 
-- 🔭 I’m currently studying Particle Physics. 
+### I’m currently studying:
+- Particle Physics - Lattice QCD
+- C++ for Computational Methods for Physics
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr)
