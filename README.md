@@ -26,10 +26,15 @@ I am interested in computational methods for solving physics problems. In partic
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&theme=dark&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true)   -->
+[![GiorgosChr's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GiorgosChr's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=GiorgosChr&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&size_weight=0.5&theme=dark#gh-dark-mode-only&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&size_weight=0.5&theme=default#gh-light-mode-only&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=GiorgosChr&theme=dark)   -->
+
 
 
