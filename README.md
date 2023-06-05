@@ -1,15 +1,12 @@
-### Hi there, my name is Giorgos
-#### I am a Physics undergraduate student at the University of Cyprus.
-<!-- ![I am a Physics undergraduate student at the University of Cyprus.] -->
-<!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+### Hi there, my name is Giorgos Christou
+#### I am a Physics graduate from the University of Cyprus (UCY).
 
 I am interested in computational methods for solving physics problems. In particular I am interested in High Energy Physics and Particle Physics (theoretical and experimental).
 
 <!-- Skills: Linux, LaTeX, Python, C++, FORTRAN -->
 
 ### I’m currently studying:
-- Particle Physics - Lattice QCD
-- C++ for Computational Methods for Physics
+- Particle physics at CERN through the [Summer Student Programme 2023](https://summerstudent.web.cern.ch/home)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr)
@@ -26,15 +23,10 @@ I am interested in computational methods for solving physics problems. In partic
 
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true)   -->
-[![GiorgosChr's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GiorgosChr's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&size_weight=0.5&count_weight=0.5&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&theme=dark&count_private=true)
 
 
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=GiorgosChr&theme=dark)   -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 
