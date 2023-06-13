@@ -23,10 +23,10 @@ I am interested in computational methods for solving physics problems. In partic
 
 
 
-[![GiorgosChr's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=true&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GiorgosChr's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgosChr&show_icons=false&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark#gh-dark-mode-only&count_private=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 
