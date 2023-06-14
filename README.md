@@ -28,7 +28,7 @@ I am interested in computational methods for solving physics problems. In partic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark#gh-dark-mode-only&count_private=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
-
+### My GitHub profile stats:
 <p align="left">
   <a href="https://github.com/GiorgosChr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgosChr&theme=dark" />
@@ -45,3 +45,10 @@ I am interested in computational methods for solving physics problems. In partic
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark&count_private=true" />
   </a>
 </p>
+
+<!-- ### Some of my public repositories:
+<p align="left">
+  <a href="[https://github.com/GiorgosChr](https://github.com/GiorgosChr/CERN_Summer_Student_Programme_2023)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiorgosChr&repo=CERN_Summer_Student_Programme_2023&theme=dark&show_owner=true" />
+  </a>
+<p> -->
