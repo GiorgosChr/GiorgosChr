@@ -42,7 +42,7 @@ I am interested in computational methods for solving physics problems. In partic
 </p>
 <p align="left">  
   <a href="https://github.com/GiorgosChr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark&count_private=true&hide_border=true" />
   </a>
 </p>
 
