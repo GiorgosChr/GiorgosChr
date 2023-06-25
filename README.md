@@ -1,4 +1,4 @@
-### Hi there, my name is Giorgos Christou
+### Hi there, my name is Giorgos
 #### I am a Physics graduate from the University of Cyprus (UCY).
 
 I am interested in computational methods for solving physics problems. In particular I am interested in High Energy Physics and Particle Physics (theoretical and experimental).
