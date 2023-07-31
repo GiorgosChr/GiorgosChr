@@ -40,11 +40,13 @@ I am interested in computational methods for solving physics problems. In partic
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiorgosChr&theme=dark" />
   </a>
 </p>
-<p align="left">  
+<!-- <p align="left">  
   <a href="https://github.com/GiorgosChr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark&count_private=true&hide_border=true" />
   </a>
-</p>
+</p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Some of my public repositories:
 <p align="left">
