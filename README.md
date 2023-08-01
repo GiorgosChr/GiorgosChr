@@ -50,7 +50,6 @@ Moreover, I am interested in solving numerical problems using computational tech
   </a>
 </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Some of my public repositories:
 <p align="left">
