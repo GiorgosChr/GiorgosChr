@@ -7,7 +7,6 @@ Moreover, I am interested in solving numerical problems using computational tech
 <!-- Skills: Linux, LaTeX, Python, C++, FORTRAN -->
 
 ### I’m currently studying:
-- Particle physics at CERN through the [Summer Student Programme 2023](https://summerstudent.web.cern.ch/home)
 - Particle and Nuclear Physics at the [University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=946)
 
 ### You can find me on:
