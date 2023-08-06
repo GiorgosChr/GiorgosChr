@@ -43,11 +43,11 @@ Moreover, I am interested in solving numerical problems using computational tech
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiorgosChr&theme=dark" />
   </a>
 </p>
-<!-- <p align="left">  
+<p align="left">  
   <a href="https://github.com/GiorgosChr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark&count_private=true&hide_border=true" />
   </a>
-</p> -->
+</p>
 
 
 <!-- ### Some of my public repositories:
