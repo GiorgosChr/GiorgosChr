@@ -4,6 +4,8 @@
 I am interested in computational methods for solving physics problems. In particular I am interested in High Energy Physics and Particle Physics (theoretical and experimental).
 Moreover, I am interested in solving numerical problems using computational techniques.
 
+For more information you can find my CV [here](https://github.com/GiorgosChr/Curriculum_Vitae/blob/main/CV.pdf)
+
 <!-- Skills: Linux, LaTeX, Python, C++, FORTRAN -->
 
 ### What I am currently working on:
