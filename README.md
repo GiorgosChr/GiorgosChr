@@ -13,7 +13,7 @@ For more information you can find my CV [here](https://github.com/GiorgosChr/Cur
 - Learning Julia and applying it to physics problems
 
 ### You can find me on:
-[![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-%20-black?style=flat-square&logo=github)](https://github.com/GiorgosChr) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/georgios-christou-5b3342244/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-%20-8B89CC?style=flat-square&logo=protonmail)](mailto:giorgos.christou@protonmail.com)
 ### What I use on a regular basis:
