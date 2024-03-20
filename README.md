@@ -1,16 +1,6 @@
 ### Hi there, my name is Giorgos
 #### I am a Physics postgraduate student at the University of Edinburgh.
 
-I am interested in computational methods for solving physics problems. In particular I am interested in High Energy Physics and Particle Physics (theoretical and experimental).
-Moreover, I am interested in solving numerical problems using computational techniques.
-
-For more information you can find my CV [here](https://github.com/GiorgosChr/Curriculum_Vitae/blob/main/CV.pdf)
-
-
-### What I am currently working on:
-- MSc in Particle and Nuclear Physics at the [University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=946)
-- Learning Julia and applying it to physics problems
-
 ### You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/georgios-christou-5b3342244/)
