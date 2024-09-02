@@ -23,7 +23,7 @@
 ### My GitHub profile stats:
 <p align="left">
   <a href="https://github.com/GiorgosChr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgosChr&hide_border=true&card_width=33833&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgosChr&hide_border=true&card_width=38&theme=dark" />
 <p>  
   <a href="https://github.com/GiorgosChr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosChr&layout=compact&theme=dark&count_private=true&hide_border=true" />
