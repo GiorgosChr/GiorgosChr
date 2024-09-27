@@ -8,9 +8,11 @@
 ### What I use on a regular basis:
 [![Python](https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%20-FF6F00?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%20-F7931E?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%20-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-%20-013243?style=flat-square&logo=numpy)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%20-8CAAE6?style=flat-square&logo=scipy)](https://scipy.org/)
+
 
 [![C++](https://img.shields.io/badge/C++-%20-00599C?style=flat-square&logo=c%2B%2B)](https://cplusplus.com/)
 
