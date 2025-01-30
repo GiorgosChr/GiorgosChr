@@ -1,5 +1,6 @@
 ### Hi there, my name is Giorgos
-#### I am a PhD candidate in Experimental Particle Physics at the University of Edinburgh.
+I am a PhD candidate in Experimental Particle Physics at the University of Edinburgh.
+I work at the ATLAS experiment focusing on fast simulations using FATRAS and low mass di-photon searches using Run 3 data.
 
 ### You can find me on:
 
