@@ -9,6 +9,7 @@ I work at the ATLAS experiment focusing on fast simulations using FATRAS and low
 ### What I use on a regular basis:
 [![Python](https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%20-FF6F00?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%20-EE4C2C?style=flat-square&logo=PyTorch)](https://pytorch.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%20-F7931E?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%20-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-%20-013243?style=flat-square&logo=numpy)](https://numpy.org/)
